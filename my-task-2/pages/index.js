@@ -3,7 +3,6 @@ import { Image } from "@mantine/core";
 import { Button } from "@mantine/core";
 import { TextInput } from "@mantine/core";
 import { useState, useEffect } from "react";
-
 export default function Home() {
   const initialData = { email: "", password: "" };
 
